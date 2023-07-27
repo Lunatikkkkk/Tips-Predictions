@@ -8,7 +8,7 @@ Starting with project firstly we import all the important libraries, modules, mo
 In this project were used
 1. Pandas
 2. Numpy
-3. Scikit learn -> model_selection / preprocessing / linear_model / compose
+3. Scikit learn -> model_selection (train_test_split , GridSearchCV) / preprocessing (StandardScaler, OneHotEncoder) / linear_model (Ridge) / compose (make_column_transformer)
 4. matplotlib.pyplot
 5. plotly.express
 
