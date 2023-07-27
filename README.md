@@ -47,5 +47,15 @@ so we again can see that in the second matrix almost all values are higher thab 
 
 Let's add new feature which will be bill_per_person = total_bill / size
 
-Now check the impact of all features to the tip value
+Now check the impact of all features to the tip value using .corr() method
+
+We'll get the following
+
+<img width="302" alt="Screen Shot 2023-07-27 at 12 24 26" src="https://github.com/Lunatikkkkk/Tips-Predictions/assets/110426439/3a411d11-881f-4355-b286-88972cf68a29">
+
+so the new total_per_person has 34% impact to the given tip
+
+# Splitting the data
+f
+
 
